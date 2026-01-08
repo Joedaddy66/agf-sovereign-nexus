@@ -5,3 +5,5 @@ azure-keyvault-keys>=4.9.0
 azure-storage-blob>=12.19.0
 azure-eventgrid>=4.17.0
 pydantic>=2.5.3
+fastapi>=0.109.0
+uvicorn>=0.25.0
